@@ -3,6 +3,7 @@
 
 ## Overview
 This project focuses on analyzing job market trends using a dataset containing various attributes of job postings. The analysis includes insights on job roles, locations, salary ranges, required qualifications, and more. The project aims to provide actionable insights for job seekers, recruiters, and companies to understand the current job market dynamics.
+https://public.tableau.com/views/Book2_17363265872750/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dataset
 The dataset used in this project contains the following columns:
