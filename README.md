@@ -1,5 +1,3 @@
-# Real-time-job-analysis
-
 
 # Job Data Analytics Project
 
